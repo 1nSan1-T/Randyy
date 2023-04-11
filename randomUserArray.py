@@ -1,6 +1,6 @@
 import random
 import numpy as np
-#method to generate random input
+
 def randyy(c,r,lim):
 #start and end of array as defined by user
 	a=int(lim[0])
